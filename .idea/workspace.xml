@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c11958aa-ea40-4c36-8ad5-115ed04188c4" name="Changes" comment="" />
+    <list default="true" id="c11958aa-ea40-4c36-8ad5-115ed04188c4" name="Changes" comment="[Add Feature]&#10;1. add new class &quot;test&quot;&#10;1-1. add new method &quot;thisIsMethod&quot; in class test&#10;1-2. add new method &quot;thisIsAlsoMethod&quot; in class test&#10;&#10;[Delete Feature]&#10;None&#10;&#10;[Refactoring/Fix Feature]&#10;None&#10;&#10;[Bug Fix]&#10;None">
+      <change afterPath="$PROJECT_DIR$/src/IndigoCoder/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="2OG1MSsdvk5jkScMJ2V2WdijwI6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,6 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -34,5 +49,20 @@
       <updated>1681172058482</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Add Feature]&#10;1. add new class &quot;test&quot;&#10;1-1. add new method &quot;thisIsMethod&quot; in class test&#10;1-2. add new method &quot;thisIsAlsoMethod&quot; in class test&#10;&#10;[Delete Feature]&#10;None&#10;&#10;[Refactoring/Fix Feature]&#10;None&#10;&#10;[Bug Fix]&#10;None" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Add Feature]&#10;1. add new class &quot;test&quot;&#10;1-1. add new method &quot;thisIsMethod&quot; in class test&#10;1-2. add new method &quot;thisIsAlsoMethod&quot; in class test&#10;&#10;[Delete Feature]&#10;None&#10;&#10;[Refactoring/Fix Feature]&#10;None&#10;&#10;[Bug Fix]&#10;None" />
   </component>
 </project>
